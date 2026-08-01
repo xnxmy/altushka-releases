@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/altushka-releases/releases/download/v1.33.5/Altushka-win64.zip",
-    "version":  "1.33.5",
-    "notes":  "Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ UI Ð¾ÑÑ‚Ñ€Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð¸ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ð¸ ÑÐºÑ€Ð°Ð½Ð°"
+    "version": "1.33.5",
+    "url": "https://github.com/xnxmy/altushka-releases/releases/download/v1.33.5/Altushka-win64.zip",
+    "notes": "исправлено UI островка при масштабировании экрана"
 }
