@@ -1,5 +1,5 @@
 {
-    "version": "1.33.5",
-    "url": "https://github.com/xnxmy/altushka-releases/releases/download/v1.33.5/Altushka-win64.zip",
-    "notes": "исправлено UI островка при масштабировании экрана"
+    "version": "1.33.6",
+    "url": "https://github.com/xnxmy/altushka-releases/releases/download/v1.33.6/Altushka-win64.zip",
+    "notes": "терминал LootX: нарезка и запись сделок"
 }
